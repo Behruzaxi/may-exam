@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ul{
+    margin-top: 10px;
+    display: flex;
+}
+.ulu{
+    display: flex;
+    margin-left: -80px;
+    margin-top: 10px;
+}
+
+.lil{
+    color: black;
+    padding-left: 10px;
+}
+
+.li{
+    padding-left: 14px;
+    color: gray;
+}
+
+.imgfirst{
+    margin-left: 250px;
+}
+
+.autologo{
+font-size: 5px;
+}
+
+.iconlar{
+    margin-top: -40px;
+    margin-left: 800px;
+}
+
+
+.number{
+    margin-top: -45px;
+    margin-left: -30px;
+}
+
+.ruskie{
+    margin-top: 120px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 109.52%;
+/* or 53px */
+
+letter-spacing: -0.02em;
+}
+
+.ruskie span{
+    background-color: yellow;
+    border-radius: 14px;
+}
+
+
+.coar{
+    width: 700px;
+    height: 400px;
+    margin-top: 270px;
+    margin-left: -370px;
+}
+
+.adminka{
+    margin-top: -580px;
+    position: absolute;
+
+}
+
+.bir{
+    margin-top: -250px;
+}
+
+.ikki{
+    margin-top: -140px;
+    margin-left: -440px;
+}
+
+.uch{
+    margin-left: -880px;
+    margin-top: -30px;
+}
+
+.cardone{
+    margin-top: 40px;
+    background: #F7F7F7;
+    border-radius: 1px solid gray;
+    border-radius: 15px;
+    width: 240px;
+    margin-bottom: 50px;
+}
+
+.zaybtn{
+    padding: 10px 18px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #FFDD2C;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.zayafka{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.ostav{
+    margin-left: 30px;
+}
+
+.suisu{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 109.52%;
+/* or 48px */
+
+margin-top: 180px;
+letter-spacing: -0.03em;
+
+color: #000000;
+
+}
+
+.ponum{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.raqam{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 53px;
+letter-spacing: -0.03em;
+margin-top: -20px;
+color: #000000;
+
+}
+
+
+.bak{
+width: 159px;
+height: 55px;
+border: none;
+color: white;
+background: #875EB3;
+border-radius: 16px;
+}
+
+.back{
+    width: 195px;
+height: 55px;
+border: none;
+color: white;
+background: #48C45A;
+border-radius: 16px;
+
+}
+
+.bakgrou{
+    width: 192px;
+height: 55px;
+border: none;
+color: white;
+background: #3B86C6;
+border-radius: 16px;
+}
+
+.buttonota{
+    margin-top: 520px;
+    margin-left: -580px;
+    margin-bottom: 30px;
+}
+
+.yelli{
+    margin-left: 650px;
+    margin-top: -520px;
+    width: 560px;
+    height: 400px;
+}
+
+.phoness{
+    position: relative;
+    margin-left: 800px;
+    margin-top: -600px;
+    width: 350px;
+    height: 600px;
+}   
+
+.nashix{
+    font-family: 'Inter';
+font-weight: 600;
+font-size: 44px;
+margin-top: 200px;
+margin-left: 0px;
+text-align: center;
+color: #000000;
+}
+
+.nam{
+    text-align: center;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+
+}
+
+.flamp{
+        color: white;
+    width: 314px;
+height: 64px;
+border: none;
+background: #3E6ADE;
+border-radius: 24px;
+margin-bottom: 40px;
+margin-top: 30px;
+padding-left: 30px;
+}
+
+.yandeks{
+    color: black;
+    width: 314px;
+    margin-top: 30px;
+    height: 64px;
+    background: #ffffff;
+    border-radius: 24px;
+    margin-bottom: 40px;
+    border: 2px solid  yellow;
+}
+
+.foto{
+    margin-left: 250px;
+    margin-top: 50px;
+    border: 1px solid gray;
+}
